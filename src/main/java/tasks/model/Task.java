@@ -171,13 +171,10 @@ public class Task implements Serializable, Cloneable {
                 ", active=" + active +
                 '}';
     }
-    @Override
-    protected Task clone() throws CloneNotSupportedException {
-        Task task  = (Task)super.clone();
-        task.time = (Date)this.time.clone();
-        task.start = (Date)this.start.clone();
-        task.end = (Date)this.end.clone();
-        return task;
+    public Task(Task task){
+        this.time = task.getTime();
+        this.start = task.getStartTime();
+        this.end = task.getEndTime();
     }
 }
 
