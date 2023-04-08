@@ -1,0 +1,40 @@
+2023-03-28 13:03:39 INFO  Main:36 - saved data reading
+2023-03-28 13:03:39 INFO  Main:41 - application start
+2023-03-28 13:03:39 INFO  Controller:74 - Main controller initializing
+2023-03-28 13:04:46 INFO  NewEditController:90 - new/edit window initializing
+2023-03-28 13:04:52 ERROR TaskIO:78 - IO exception reading or writing file
+2023-03-28 13:05:05 ERROR TaskIO:78 - IO exception reading or writing file
+2023-03-28 13:05:42 INFO  Main:36 - saved data reading
+2023-03-28 13:05:42 INFO  Main:41 - application start
+2023-03-28 13:05:42 INFO  Controller:74 - Main controller initializing
+2023-03-28 13:05:45 INFO  NewEditController:90 - new/edit window initializing
+2023-03-28 13:05:47 ERROR TaskIO:78 - IO exception reading or writing file
+2023-03-28 13:06:23 INFO  Main:36 - saved data reading
+2023-03-28 13:06:23 INFO  Main:41 - application start
+2023-03-28 13:06:23 INFO  Controller:74 - Main controller initializing
+2023-03-28 13:06:25 INFO  NewEditController:90 - new/edit window initializing
+2023-03-28 13:06:27 ERROR TaskIO:78 - IO exception reading or writing file
+2023-03-28 13:24:38 INFO  Main:36 - saved data reading
+2023-03-28 13:24:38 INFO  Main:41 - application start
+2023-03-28 13:24:38 INFO  Controller:74 - Main controller initializing
+2023-03-28 13:34:49 INFO  Main:36 - saved data reading
+2023-03-28 13:34:49 INFO  Main:41 - application start
+2023-03-28 13:34:50 INFO  Controller:74 - Main controller initializing
+2023-03-28 13:34:57 INFO  NewEditController:90 - new/edit window initializing
+2023-03-28 13:35:01 ERROR TaskIO:78 - IO exception reading or writing file
+2023-03-28 13:35:04 ERROR TaskIO:78 - IO exception reading or writing file
+2023-03-28 13:35:07 INFO  NewEditController:90 - new/edit window initializing
+2023-03-28 13:35:12 ERROR TaskIO:78 - IO exception reading or writing file
+2023-03-28 19:35:59 INFO  Main:36 - saved data reading
+2023-03-28 19:35:59 INFO  Main:41 - application start
+2023-03-28 19:35:59 INFO  Controller:74 - Main controller initializing
+2023-03-28 19:36:02 INFO  NewEditController:90 - new/edit window initializing
+2023-03-28 19:36:06 ERROR TaskIO:78 - IO exception reading or writing file
+2023-03-28 23:35:33 INFO  Main:36 - saved data reading
+2023-03-28 23:35:33 INFO  Main:41 - application start
+2023-03-28 23:35:33 INFO  Controller:74 - Main controller initializing
+2023-03-28 23:35:36 INFO  NewEditController:90 - new/edit window initializing
+2023-03-29 09:14:54 INFO  Main:36 - saved data reading
+2023-03-29 09:14:54 INFO  Main:41 - application start
+2023-03-29 09:14:55 INFO  Controller:74 - Main controller initializing
+2023-03-29 09:14:57 INFO  NewEditController:90 - new/edit window initializing
