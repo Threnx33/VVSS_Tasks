@@ -1,0 +1,9 @@
+
+H
+java:S1948-"&Make "last" transient or serializable.(š§æäùÿÿÿÿ8Î³çòı0
+v
+java:S2975²"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Óıôîûÿÿÿÿ8ï³çòı0
+k
+java:S1182²"HUse super.clone() to create and seed the cloned instance to be returned.(Óıôîûÿÿÿÿ8ò³çòı0
+J
+java:S1144ˆ",Remove this unused private "setTask" method.(İŠÒ8õ³çòı0
