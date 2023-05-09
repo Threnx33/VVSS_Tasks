@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="tasks.services.DateServiceTest" time="0.033" tests="7" errors="7" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="tasks.model.TasksOperationsTest" time="0.013" tests="4" errors="4" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="14"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -57,32 +57,20 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="58.0"/>
   </properties>
-  <testcase name="getDateMergedWithTime_ECP_valid" classname="tasks.services.DateServiceTest" time="0.001">
-    <error message="Unable to make tasks.services.DateServiceTest() accessible: module tasks does not &quot;opens tasks.services&quot; to unnamed module @3e84448c" type="java.lang.reflect.InaccessibleObjectException">java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
+  <testcase name="tc_01" classname="tasks.model.TasksOperationsTest" time="0.006">
+    <error message="Unable to make tasks.model.TasksOperationsTest() accessible: module tasks does not &quot;opens tasks.model&quot; to unnamed module @3e84448c" type="java.lang.reflect.InaccessibleObjectException">java.lang.reflect.InaccessibleObjectException: Unable to make tasks.model.TasksOperationsTest() accessible: module tasks does not "opens tasks.model" to unnamed module @3e84448c
 </error>
   </testcase>
-  <testcase name="getDateMergedWithTime_ECP_Invalid" classname="tasks.services.DateServiceTest" time="0">
-    <error message="Unable to make tasks.services.DateServiceTest() accessible: module tasks does not &quot;opens tasks.services&quot; to unnamed module @3e84448c" type="java.lang.reflect.InaccessibleObjectException">java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
+  <testcase name="tc_02" classname="tasks.model.TasksOperationsTest" time="0">
+    <error message="Unable to make tasks.model.TasksOperationsTest() accessible: module tasks does not &quot;opens tasks.model&quot; to unnamed module @3e84448c" type="java.lang.reflect.InaccessibleObjectException">java.lang.reflect.InaccessibleObjectException: Unable to make tasks.model.TasksOperationsTest() accessible: module tasks does not "opens tasks.model" to unnamed module @3e84448c
 </error>
   </testcase>
-  <testcase name="getDateMergedWithTime_BVA_invalid{String}[1]" classname="tasks.services.DateServiceTest" time="0.001">
-    <error message="Unable to make tasks.services.DateServiceTest() accessible: module tasks does not &quot;opens tasks.services&quot; to unnamed module @3e84448c" type="java.lang.reflect.InaccessibleObjectException">java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
+  <testcase name="tc_03" classname="tasks.model.TasksOperationsTest" time="0">
+    <error message="Unable to make tasks.model.TasksOperationsTest() accessible: module tasks does not &quot;opens tasks.model&quot; to unnamed module @3e84448c" type="java.lang.reflect.InaccessibleObjectException">java.lang.reflect.InaccessibleObjectException: Unable to make tasks.model.TasksOperationsTest() accessible: module tasks does not "opens tasks.model" to unnamed module @3e84448c
 </error>
   </testcase>
-  <testcase name="getDateMergedWithTime_BVA_invalid{String}[2]" classname="tasks.services.DateServiceTest" time="0">
-    <error message="Unable to make tasks.services.DateServiceTest() accessible: module tasks does not &quot;opens tasks.services&quot; to unnamed module @3e84448c" type="java.lang.reflect.InaccessibleObjectException">java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
-</error>
-  </testcase>
-  <testcase name="getDateMergedWithTime_BVA_invalid2{String}[1]" classname="tasks.services.DateServiceTest" time="0.001">
-    <error message="Unable to make tasks.services.DateServiceTest() accessible: module tasks does not &quot;opens tasks.services&quot; to unnamed module @3e84448c" type="java.lang.reflect.InaccessibleObjectException">java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
-</error>
-  </testcase>
-  <testcase name="getDateMergedWithTime_BVA_valid" classname="tasks.services.DateServiceTest" time="0">
-    <error message="Unable to make tasks.services.DateServiceTest() accessible: module tasks does not &quot;opens tasks.services&quot; to unnamed module @3e84448c" type="java.lang.reflect.InaccessibleObjectException">java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
-</error>
-  </testcase>
-  <testcase name="getDateMergedWithTime_BVA_invalid2" classname="tasks.services.DateServiceTest" time="0">
-    <error message="Unable to make tasks.services.DateServiceTest() accessible: module tasks does not &quot;opens tasks.services&quot; to unnamed module @3e84448c" type="java.lang.reflect.InaccessibleObjectException">java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
+  <testcase name="tc_04" classname="tasks.model.TasksOperationsTest" time="0">
+    <error message="Unable to make tasks.model.TasksOperationsTest() accessible: module tasks does not &quot;opens tasks.model&quot; to unnamed module @3e84448c" type="java.lang.reflect.InaccessibleObjectException">java.lang.reflect.InaccessibleObjectException: Unable to make tasks.model.TasksOperationsTest() accessible: module tasks does not "opens tasks.model" to unnamed module @3e84448c
 </error>
   </testcase>
 </testsuite>

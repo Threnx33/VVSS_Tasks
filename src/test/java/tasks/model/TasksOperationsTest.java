@@ -17,7 +17,6 @@ import java.util.Date;
 
 
 class TasksOperationsTest {
-
     private TasksOperations tasksOperations;
 
     @BeforeEach

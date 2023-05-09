@@ -1,10 +1,25 @@
 -------------------------------------------------------------------------------
 Test set: tasks.services.DateServiceTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in tasks.services.DateServiceTest
-getLocalDateValueFromDate  Time elapsed: 0 s  <<< ERROR!
-java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @2cdd0d4b
+Tests run: 7, Failures: 0, Errors: 7, Skipped: 0, Time elapsed: 0.033 s <<< FAILURE! - in tasks.services.DateServiceTest
+getDateMergedWithTime_ECP_valid  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
 
-getDateValueFromLocalDate  Time elapsed: 0 s  <<< ERROR!
-java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @2cdd0d4b
+getDateMergedWithTime_ECP_Invalid  Time elapsed: 0 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
+
+getDateMergedWithTime_BVA_invalid{String}[1]  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
+
+getDateMergedWithTime_BVA_invalid{String}[2]  Time elapsed: 0 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
+
+getDateMergedWithTime_BVA_invalid2{String}[1]  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
+
+getDateMergedWithTime_BVA_valid  Time elapsed: 0 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
+
+getDateMergedWithTime_BVA_invalid2  Time elapsed: 0 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make tasks.services.DateServiceTest() accessible: module tasks does not "opens tasks.services" to unnamed module @3e84448c
 

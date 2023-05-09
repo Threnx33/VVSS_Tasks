@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: tasks.model.TasksOperationsTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.013 s <<< FAILURE! - in tasks.model.TasksOperationsTest
+tc_01  Time elapsed: 0.006 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make tasks.model.TasksOperationsTest() accessible: module tasks does not "opens tasks.model" to unnamed module @3e84448c
+
+tc_02  Time elapsed: 0 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make tasks.model.TasksOperationsTest() accessible: module tasks does not "opens tasks.model" to unnamed module @3e84448c
+
+tc_03  Time elapsed: 0 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make tasks.model.TasksOperationsTest() accessible: module tasks does not "opens tasks.model" to unnamed module @3e84448c
+
+tc_04  Time elapsed: 0 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make tasks.model.TasksOperationsTest() accessible: module tasks does not "opens tasks.model" to unnamed module @3e84448c
+
